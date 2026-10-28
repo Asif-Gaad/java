@@ -12,6 +12,7 @@ public class SwapVariales {
         int b = sc.nextInt();
 
         // Swapping without third variable
+        
         a = a + b;
         b = a - b;
         a = a - b;
